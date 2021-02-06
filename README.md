@@ -2,15 +2,21 @@
 
 <!--
 **Lincoln-LM/Lincoln-LM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+always working on various rng tools, feel free to request something or use my tools
+
+finished:
+Tid/Sid Searcher
+Spinda Finder
+
+working on:
+Unown Finder
+Spinda Egg Finder
+
+soon:
+Jirachi Finder
+Manaphy Finder
+Gen 6 Spinda Finder
+Gen 6 Horde Tool
+others
