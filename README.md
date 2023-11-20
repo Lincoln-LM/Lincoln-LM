@@ -2,8 +2,9 @@
 
 
 ### Game Mods:
-- [swsh-overworld-shiny-patch](https://github.com/Lincoln-LM/swsh-overworld-shiny-patch) - Patches Pokemon Sword and Shield to allow pokemon to appear shiny in the overworld
-- [swsh-camera-tweaks-patch](https://github.com/Lincoln-LM/swsh-camera-tweaks-patch) - Patches Pokemon Sword and Shield to extend the vanilla limits of the camera
+- [swsh-mods-exl](https://github.com/Lincoln-LM/swsh-mods-exl) - Exlaunch-based Pokemon Sword and Shield patches including updates for those below
+- [swsh-overworld-shiny-patch](https://github.com/Lincoln-LM/swsh-overworld-shiny-patch) - Patches Pokemon Sword and Shield to allow pokemon to appear shiny in the overworld **superseded by swsh-mods-exl**
+- [swsh-camera-tweaks-patch](https://github.com/Lincoln-LM/swsh-camera-tweaks-patch) - Patches Pokemon Sword and Shield to extend the vanilla limits of the camera **superseded by swsh-mods-exl**
 - [pokewalker-patcher](https://github.com/Lincoln-LM/pokewalker-patcher) - Patches Pokemon HeartGold and SoulSilver to remove the shiny lock on pokewalker pokemon
 - [pokewalker-course-injector](https://github.com/Lincoln-LM/pokewalker-course-injector) - Patches Pokemon HeartGold and SoulSilver to replace a pokewalker route with custom pokemon and items
 
